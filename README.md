@@ -1,20 +1,36 @@
 # DeepLearningCurriculum
 
+## Prerequesits to Machine Learning
 
-## Prerequesits to DeepLearning
-
-1- Data manipulation 
+Machine Learning Toolbox
+- Data manipulation 
 * Pandas
 * Numpy
- https://docs.scipy.org/doc/numpy/reference/routines.array-manipulation.html
 
-2- Data Preprocessing
+- Exploratory Data Analysis
+* EMPTY
 
-3- Computing
+- Data Preprocessing
+* Signal Processing (For EEG Research) : Digital Signal Processing (Coursera)
+
+* Image Processing
+
+
+- Computing
+
+## Machine Learning Education
+
+Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
+* Scikit Learn
+* SVM
+* Random forest
+* Decision trees
+* Ensembles
+
+##  DeepLearning Education
 
 4- Deep Learning Theory
 
-5- Deep Learning Practice tips 
+5- Deep Learning Practice tips and Libraries
 
-6- Deep Learning Frameworks
 
