@@ -15,9 +15,16 @@ Machine Learning Toolbox
   * Digital Signal Processing [Coursera]
   * Analyzing Neural Time Series Data: Theory and Practice 
   * Practical Approach to Electroencephalography (Clinical)
-  *
   
 - Computing
+* Distributed computing 
+  * Dask Library
+  
+* Hight Performance computing
+  * 
+
+-Database
+* Distributed Databases
 
 ## Machine Learning Education
 
