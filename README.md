@@ -2,7 +2,9 @@
 
 
 ## Prerequesits to DeepLearning
-1- Data manipulation
+
+1- Data manipulation 
+
 2- Data Preprocessing
 3- Computing
 4- Deep Learning Theory
