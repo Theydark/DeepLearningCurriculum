@@ -42,3 +42,8 @@ Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and
 5- Deep Learning Practice tips and Libraries
 
 
+##  Reinforcement Learning Education
+Deep Reinforcement Learning Hands-On: Apply modern RL methods, with deep Q-networks, value iteration, policy gradients, TRPO, AlphaGo Zero and more
+
+
+
