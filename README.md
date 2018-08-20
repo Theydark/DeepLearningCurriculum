@@ -11,11 +11,10 @@ Machine Learning Toolbox
 * EMPTY
 
 - Data Preprocessing
-* Signal Processing (For EEG Research) : Digital Signal Processing (Coursera)
-
-* Image Processing
-
-
+* Signal Processing (For EEG Research) : 
+  * Digital Signal Processing (Coursera)
+  * Analyzing Neural Time Series Data: Theory and Practice 
+  * Practical Approach to Electroencephalography [Clinical]
 - Computing
 
 ## Machine Learning Education
